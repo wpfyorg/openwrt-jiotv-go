@@ -1,5 +1,8 @@
 # openwrt-jiotv-go
 
+> [!IMPORTANT]
+> **This project has been sunset and is no longer maintained.** Please move to the actively maintained Rust version: [wpfyorg/better-jiotv-go](https://github.com/wpfyorg/better-jiotv-go).
+
 Run [JioTV Go](https://jiotv_go.rabil.me) as a proper OpenWrt service: procd-managed, configured through UCI, starts at boot, restarts if it crashes, and keeps your Jio login across reboots and sysupgrades.
 
 ![JioTV Go web UI running on an OpenWrt router](docs/web-ui.png)
